@@ -1,3 +1,6 @@
+# pip install faiss-cpu --no-build-isolation --only-binary=:all: 
+# pip install --only-binary=:all: "pyarrow>=16,<17"
+
 langchain 
 langchain_openai
 langchain_community
@@ -6,3 +9,4 @@ requests
 pandas
 python-dotenv
 streamlit
+
